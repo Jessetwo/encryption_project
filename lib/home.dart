@@ -101,6 +101,11 @@ class _HomeScreenState extends State<HomeScreen> {
               'Copy and paste the Encrypted text in to the field and tap Decrypt',
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
             ),
+            SizedBox(height: 20),
+            Text(
+              'Copy and paste the Encrypted text in to the field and tap Decrypt',
+              style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+            ),
           ],
         ),
       ),
